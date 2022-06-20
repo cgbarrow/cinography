@@ -1,2 +1,2 @@
 # cinography
-My Netflix like watched cinema (film and tv)
+My Netflix clone for my personal watched cinema (film and tv)
